@@ -3,7 +3,7 @@
 ***************************/
 
 /************* API Base URL *************/
-const API = "https://health-assistant1-2.onrender.com";
+const API = "sudo suspend web service health-assistant1";
 
 
 
@@ -1018,6 +1018,7 @@ window.onload = () => {
   }
 
 };
+
 
 
 
